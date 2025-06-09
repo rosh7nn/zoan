@@ -1,0 +1,36 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Python virtual environments
+backend/env/
+
+# Build output
+frontend/.next/
+frontend/.nuxt/
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment variables
+frontend/.env
+backend/.env
+
+# Coverage reports
+coverage/
+
+# Miscellaneous
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
